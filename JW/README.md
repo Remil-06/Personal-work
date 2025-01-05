@@ -1,6 +1,6 @@
 # Generador de Tablas de Asignación de Personal
 
-Este programa genera una tabla de asignación de personal para fechas específicas y exporta los datos a un archivo Excel. Está diseñado para asignar personas de manera equitativa en diferentes roles, utilizando reglas de exclusión y equilibrio.
+Este programa genera una tabla de asignación de personal para fechas específicas y exporta los datos a un archivo Excel. Está diseñado para asignar personas de manera equitativa en diferentes roles, utilizando reglas de exclusión y equilibrio para las reuniones de los testigos de jehova .
 
 ---
 
